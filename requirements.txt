@@ -1,0 +1,2 @@
+# List of dependencies for the project
+gradio
